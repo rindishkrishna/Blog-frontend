@@ -1,0 +1,25 @@
+.main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.inner {
+  margin: 100px 100px 100px 100px;
+}
+.textArea {
+  width: 500px;
+  height: 70px;
+}
+.row1 {
+  display: grid;
+  grid-template-columns: auto auto;
+}
+.logDiv {
+  padding-left: 100px;
+}
+.logout {
+  font-size: 14px;
+}
+.post {
+  width: 800px;
+}
